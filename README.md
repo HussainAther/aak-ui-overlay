@@ -1,6 +1,3 @@
-### 📄 `aak-ui-overlay/README.md`
-
-```markdown
 # 🎮 AAK UI Overlay (Session HUD)
 
 The **AAK UI Overlay** is a real-time Streamlit interface that displays live session feedback from the AAK AI Copilot. It's built for researchers and developers to **see their productivity signals in action** — keystrokes, idle time, task alignment, and Claude chat guidance.
